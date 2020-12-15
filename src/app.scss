@@ -1,0 +1,12 @@
+$primary-color: #4287f5;
+
+$secondary-color: #1e4075;
+
+h1,
+p,
+button{
+    color: $primary-color;
+}
+button{
+    background-color: $secondary-color;
+}
